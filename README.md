@@ -51,6 +51,6 @@ pathfinding_agent/
 
 1. **Set up the grid** — Use the map editor to draw walls, or click **generate** for a random maze.
 2. **Choose an algorithm and heuristic** from the left panel.
-3. Click **▶ run search** to start the visualization.
+3. Click run search** to start the visualization.
 4. Enable **dynamic obstacles** to watch the agent move and replan in real time.
-5. Click **⏹ stop** at any time to halt the animation.
+5. Click stop** at any time to halt the animation.
